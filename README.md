@@ -1,1 +1,1 @@
-# angular_sample_app
+# angular sample app workshop!
